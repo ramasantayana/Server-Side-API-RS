@@ -1,4 +1,4 @@
-let API_KEY=''
+let API_KEY=prompt('enter your api key')
 
 const previous_data=JSON.parse(localStorage.getItem('data')||"{}");
 

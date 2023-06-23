@@ -85,6 +85,7 @@ main{
 .forcast-wrapper{
     display: flex;
     margin: 10px;
+    flex-wrap: wrap;
 }
 
 .title-forcast{

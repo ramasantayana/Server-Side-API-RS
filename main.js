@@ -1,4 +1,4 @@
-let API_KEY=prompt('enter your api key')
+let API_KEY=process.env.OPENWEATHER_API_KEY
 
 const previous_data=JSON.parse(localStorage.getItem('data')||"{}");
 

@@ -7,7 +7,7 @@
 header{
   width: 100%;  
   height: 60px;
-  background: blue;
+  background: linear-gradient(to right,#4558b6,#404da8,#393b90,#2e2375,#281764,#281764);
   color: #fff;
   display: grid;
   place-content: center;
@@ -45,6 +45,8 @@ main{
     padding: 5px;
     margin: 15px auto;
     display: block;
+    background-color: #6891e3;
+    border: 1px solid #6891e3;
 }
 .city-btn{
     width: 90%;
@@ -52,10 +54,55 @@ main{
     padding: 5px;
     margin: 15px auto;
     display: block;
+    background: #b9b8b9;
+    border:1px solid #b9b8b9;
 }
 
 .right-area{
     width: 75%;
     height: 100vh;
-    background: pink;
+
+}
+
+.box{
+    width:100% ;
+    max-width: 1000px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.box h3{
+    font-size: 25px;
+    margin:15px 5px;
+}
+.box p{
+    font-size: 16px;
+    margin:15px 5px;
+}
+
+
+.forcast-wrapper{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.title-forcast{
+    margin-left:20px ;
+}
+.forcast{
+    background: #323d4f;
+    color: #fff;
+    font-size: 18px;
+    width: max-content;
+    padding:10px;
+    width: 180px;
+    margin: 10px;
+    height: 220px;
+
+}
+
+.forcast p{
+    margin: 10px 2px;
 }

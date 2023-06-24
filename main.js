@@ -1,4 +1,4 @@
-let API_KEY=process.env.OPENWEATHER_API_KEY
+let API_KEY='635eb067bdbb895fabb3cc29049f7031'
 
 const previous_data=JSON.parse(localStorage.getItem('data')||"{}");
 

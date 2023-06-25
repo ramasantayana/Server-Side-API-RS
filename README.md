@@ -1,3 +1,8 @@
-# Server-Side-API-RS
+# Weather Application
 
-Test 
+For this week, my challenge was to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.  To use my application, click the link here:  https://ramasantayana.github.io/Server-Side-API-RS/
+
+CREDITS
+
+I received tutoring help from my coding tutor Rishabh Dubey 
+

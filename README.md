@@ -4,5 +4,5 @@ For this week, my challenge was to build a weather dashboard that will run in th
 
 CREDITS
 
-I received tutoring help from my coding tutor Rishabh Dubey 
+I received tutoring help from my mentor and coding tutor Rishabh Dubey 
 
